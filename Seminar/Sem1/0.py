@@ -1,0 +1,8 @@
+a = input("Введите первое число: ")
+b = input("Введите второе число: ")
+c = int(input("Снова введите первое число: "))
+d = int(input("Снова введите второе число: "))
+print(a + b)
+print(c + d)
+print(type(a + b))
+print(type(c + d))
