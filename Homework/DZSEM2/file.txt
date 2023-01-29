@@ -1,0 +1,2 @@
+random.randint(-number, number)
+random.randint(-number, number)
