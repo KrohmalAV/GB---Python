@@ -1,2 +1,2 @@
-random.randint(-number, number)
-random.randint(-number, number)
+-1
+2
